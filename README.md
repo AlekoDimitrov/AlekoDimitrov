@@ -1,6 +1,6 @@
 ### Hi there, I'm [Aleko](https://alekodimitrov.com) 👋
 
-- 💻 Currently, I'm diving deep into TypeScript.
+- 💻 Dving deep into network and security. Studying for the CCNP Enterprise.
 - 🤝 I'm open to collaborating on exciting projects or contributing to meaningful open-source initiatives.
 - 💬 Ask me about anything related to single page applications. I'm eager to share my knowledge and help you out.
 - 📫 You can reach me via [Email](mailto:dimitrovaleko@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alekodimitrov).
